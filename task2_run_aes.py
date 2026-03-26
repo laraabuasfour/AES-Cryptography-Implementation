@@ -1,9 +1,5 @@
 # task2_run_aes.py
 """
-Hala Sabobeh      1220322
-Tasneem Shelleh   1220439
-Lara Abu Asfour   1221484
-
 Task # 2 
 (Symmetric Crypto Systems: Implementation and Analysis)
 """
